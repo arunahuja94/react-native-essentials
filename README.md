@@ -16,9 +16,5 @@ A group of useful [vscode](https://code.visualstudio.com/) snippets for react na
 |  rnstyle | React Native Style **`New`**                |
 
 
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
