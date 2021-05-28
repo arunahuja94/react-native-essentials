@@ -16,5 +16,11 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "devDependencies": {
+        "json-concat": "^0.0.1"
+    },
+    "scripts": {
+        "concat": "node_modules\\.bin\\json-concat snippets/types/ snippets/snippets.code-snippets"
     }
 }
